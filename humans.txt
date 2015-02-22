@@ -1,0 +1,31 @@
+
+                            
+/* TEAM */
+
+                            
+Web Developer: Tom O'Leary
+
+                            
+Site: http://thomasoleary.co.uk, thomas.oleary@hotmail.co.uk
+               
+Location: Oxford, UK.
+						
+/* THANKS */
+
+							
+Joseph Ward for the design!
+
+                            
+/* SITE */
+
+                            
+Last update: 2015/02/14
+
+                            
+Standards: HTML5, CSS3, LESS
+
+                            
+Components: jQuery, Bootstrap for the grid system
+
+                            
+Software:Adobe Brackets,Adobe Photoshop
